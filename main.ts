@@ -10,6 +10,8 @@
  *   Flame
  * 
  *   .............
+ * 
+ * See IMAGE in Repo for use
  */
 basic.forever(function () {
     while (input.pinIsPressed(TouchPin.P0)) {
